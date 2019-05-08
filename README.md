@@ -1,8 +1,8 @@
-# Redes-Proyecto #
+# Redes-Proyecto
 Comunicación de 5 sucursales con sus respectivas subredes.
 
-## Diseñar una red para una empresa de 5 sucursales en Monterrey, Veracruz, Sinaloa, Puebla y Yucatán. ##
-*	Elegir una IP de inicio (IP Pública).
+## Diseñar una red para una empresa de 5 sucursales en Monterrey, Veracruz, Sinaloa, Puebla y Yucatán.
+*	Elegir una IP de inicio (IP Pública)
   * Ip: 192.1.0.1
   * Red: 192.1.0.0
   * Mascara: 255.255.255.224
